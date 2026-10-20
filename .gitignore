@@ -1,0 +1,7 @@
+# 仅将概念笔记、首页、配图和 Git 配置纳入仓库。
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/概念总结.md
+!/assets/
